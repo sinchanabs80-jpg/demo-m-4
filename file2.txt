@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 hello haii
+=======
+hello world
+>>>>>>> new1
